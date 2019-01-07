@@ -1,0 +1,14 @@
+{
+    "downloads": {
+        "path": "/Users/ajmas/Downloads",
+        "permissions": {
+            "allowStats": true,
+            "allowMetadata": true,
+            "allowUpload": false,
+            "allowDelete": false,
+            "allowDotFiles": false,
+            "allowSymlinks": false
+        },
+        "generatePreviews": false
+    }
+}

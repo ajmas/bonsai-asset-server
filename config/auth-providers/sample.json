@@ -1,0 +1,13 @@
+{
+    "sample": {
+        "provider": "sample",
+        "module": "passport-sample",
+        "clientID": "CLIENT_ID",
+        "clientSecret": "CLIENT_SECRET",
+        "authPath": "/auth/sample",
+        "callbackURL": "/auth/sample/callback",
+        "successRedirect": "/",
+        "failureRedirect": "/",
+        "disabled": true
+    }
+}

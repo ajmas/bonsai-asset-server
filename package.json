@@ -1,0 +1,30 @@
+{
+  "name": "asset-store",
+  "version": "0.5.0",
+  "description": "NodeJS based asset store",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre-John Mas",
+  "license": "MIT",
+  "dependencies": {
+    "@passport-next/passport-http-bearer": "^1.2.0",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "file-metadata": "^1.0.0",
+    "mmmagic": "^0.5.2",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1",
+    "node-imagemagick": "^0.1.8",
+    "passport": "^0.4.0",
+    "passport-github": "^1.1.0",
+    "readdir-enhanced": "^2.2.4",
+    "simple-thumbnail": "^1.4.0",
+    "walk-folder-tree": "^1.0.1"
+  }
+}

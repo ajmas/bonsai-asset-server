@@ -1,0 +1,14 @@
+{
+    "movies": {
+        "path": "/Users/ajmas/Movies",
+        "permissions": {
+            "allowStats": true,
+            "allowMetadata": true,
+            "allowUpload": false,
+            "allowDelete": false,
+            "allowDotFiles": false,
+            "allowSymlinks": false
+        },
+        "generatePreviews": true
+    }
+}
